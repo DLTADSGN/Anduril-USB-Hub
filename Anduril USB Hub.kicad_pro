@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.25
+          "min_clearance": 0.049999999999999996
         }
       },
       "diff_pair_dimensions": [
@@ -154,13 +154,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "power_pin_not_driven|1066800|2197100|bc5060eb-0b8d-499d-835a-d5efea539b12|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|419100|1231900|ff476477-8450-4208-a13e-67f9b98ede2a|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|444500|2108200|94cac8d8-4fb2-41cc-8d15-de2f3e5b4810|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|495300|1079500|d1351b29-4887-4b63-b3e8-29aa428228fe|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|558800|317500|b6bb27db-f4db-41f1-821e-02a483f84570|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -403,7 +397,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Anduril USB Hub.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
