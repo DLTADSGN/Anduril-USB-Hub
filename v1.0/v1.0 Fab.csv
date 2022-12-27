@@ -1,0 +1,11 @@
+Designator,Value
+"C19, C1, C5",1uF
+"C6, C12, C13, C16, C9, C15, C4, C8, C10, C11",0.1uF
+"U4, U3, U2",TVS
+"R1, R2",5.1kOhm
+R3,12kOhm
+"C14, C17, C7",4.7uF
+"C3, C2",8pF
+R4,50kOhm
+R6,10kOhm
+R5,100kOhm
