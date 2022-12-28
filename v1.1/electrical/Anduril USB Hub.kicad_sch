@@ -2467,7 +2467,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 2eaa85ab-de06-40c7-88c7-1a838a54e87c)
   )
-  (text "Anduril USB Hub" (at 309.88 278.13 0)
+  (text "Anduril USB Hub v1.1" (at 309.88 278.13 0)
     (effects (font (size 2.5 2.5) (thickness 0.5) bold) (justify left bottom))
     (uuid 5f82ce97-6583-4043-ad9c-06beece6da0c)
   )
