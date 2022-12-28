@@ -2,7 +2,7 @@
 This project is a USB 2.0 Hub with USB C input and three output ports (2 USB A, 1 USB C).
 ![Anduril USB Hub](./docs/anduril_usb_hub.png "Anduril USB Hub")
 There isn't much novel about this USB Hub, the main challenge was the layout and packaging to get it to fit in the shape of the Anduril Industries logo.
-![Anduril Industries Logo](./docs/anduril_logo.png "Anduril Industries Logo")
+<img src="./docs/anduril_logo.png" alt="Anduril Industries Logo" width="200"/>
 
 ## Requirements:
  - **USB 2.0 minimum**: USB 3.0+ is outside of my skill set currently, so I stuck with USB 2.0 which should be fast enough for most peripherals and data transfer.
