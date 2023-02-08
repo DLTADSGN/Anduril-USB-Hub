@@ -4,8 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/colonDdesigns/Anduril-USB-Hub/main/docs/build plate.jpg" alt="Build Plate" height="250"/> <img src="https://raw.githubusercontent.com/colonDdesigns/Anduril-USB-Hub/main/docs/PCB stack.jpg" alt="PCB Stack" height="250"/>
 
-
-
+<img src="https://raw.githubusercontent.com/colonDdesigns/Anduril-USB-Hub/main/docs/pcba layed out.jpg" alt="Completed PCBAs" height="250"/> <img src="https://raw.githubusercontent.com/colonDdesigns/Anduril-USB-Hub/main/docs/pcba stacked.jpg" alt="Completed PCBAs" height="250"/>
 
 
 
