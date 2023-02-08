@@ -10,6 +10,7 @@ There isn't much novel about this USB Hub, the main challenge was the layout and
 The PCB is designed to fit in a 3D printed, two part housing that screws together to make the Anduril Industries logo. The upstream/host of the hub is at the top and the downstream/peripheral ports are at the bottom.
 
 <img src="./docs/pcb in lower.jpg" alt="Anduril Industries Logo" height="200"/> <img src="./docs/testing.jpg" alt="Anduril Industries Logo" height="200"/>
+<img src="https://raw.githubusercontent.com/colonDdesigns/Anduril-USB-Hub/main/docs/pcba stacked.jpg" alt="Completed PCBAs" height="200"/>
 
 ## **REQUIREMENTS**:
  - **USB 2.0 minimum**: USB 3.0+ is outside of my skill set currently, so I stuck with USB 2.0 which should be fast enough for most peripherals and data transfer.
